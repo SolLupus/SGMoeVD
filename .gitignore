@@ -1,0 +1,11 @@
+data/*
+checkpoints/*
+saved_models/*
+logs/*
+dataset.json
+__pycache__/*
+codebert_cache/*
+datasets/*
+processed_data/*
+images/*
+git-back/*
